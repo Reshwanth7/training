@@ -3,7 +3,7 @@ package kesava;
 public class Run {
 public static void main(String argg[])
 {
-	System.out.println("hell");
+	System.out.println("hello");
 }
 	
 }
