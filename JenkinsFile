@@ -2,7 +2,7 @@ node {
    
    stage('SCM Checkout'){
 	   
-	git 'https://github.com/Reshwanth7/demo'
+	git 'https://github.com/Reshwanth7/training'
    
    }
    
